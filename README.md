@@ -66,6 +66,11 @@ Note: This code serves as a starting point, and you can further customize and im
 - Visual indication of password strength through border color.
 
 - Responsive design with an intuitive user interface.
+
+## Deployment status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/397ff5ec-f188-45fa-bcf6-3de01348110d/deploy-status)](https://app.netlify.com/sites/jsprojects19-password-strength-check/deploys)
+
 ## Contributing
 
 Contributions are always welcome!
