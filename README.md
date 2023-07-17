@@ -15,7 +15,7 @@ This is a password strength checker implemented using HTML, CSS, and JavaScript.
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Password-Strength-Checker/
+     https://rashwanthashok.github.io/Password-strength-checker/
 ## Getting Started
 
 Getting Started with the Password Strength Checker:
